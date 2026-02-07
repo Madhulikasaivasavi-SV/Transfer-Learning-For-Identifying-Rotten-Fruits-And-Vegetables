@@ -1,0 +1,12 @@
+# Data Science & Visualization
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Image Processing
+opencv-python-headless
+pillow
+
+# Deep Learning (TensorFlow/Keras)
+tensorflow>=2.10.0
